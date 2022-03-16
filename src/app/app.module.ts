@@ -15,6 +15,6 @@ import { ProbandoComponent } from './components/probando/probando.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [ProbandoComponent]
 })
 export class AppModule { }
